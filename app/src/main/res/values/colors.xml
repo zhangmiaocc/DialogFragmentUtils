@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Android新规范-->
+    <color name="color_28">#282828</color>
+    <color name="color_66">#666666</color>
+    <color name="color_88">#888888</color>
+    <color name="color_9E">#9E9E9E</color>
+    <color name="color_FF">#FFFFFF</color>
+    <color name="color_YELLOW">#FFB433</color>
+    <color name="color_BLUE">#1A8AFA</color>
+    <color name="color_RED">#FF5C56</color>
+    <color name="color_7C">#7C88A4</color>
+    <color name="color_CC">#cccccc</color>
+    <color name="color_80">#808080</color>
+    <color name="color_seach_bg">#F0F0F4</color>
+    <color name="color_all_bg">#F8F8FA</color>
+    <color name="color_E6">#e6e6e6</color>
+    <color name="color_F0">#F0F0F0</color>
+</resources>
